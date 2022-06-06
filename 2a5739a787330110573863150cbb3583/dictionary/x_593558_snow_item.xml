@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Item" max_length="40" name="x_593558_snow_item" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="标题" max_length="254" name="title" type="string"/>
+        <element choice="3" label="状态" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="提交" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="处理中" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="完成" sequence="30" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>
