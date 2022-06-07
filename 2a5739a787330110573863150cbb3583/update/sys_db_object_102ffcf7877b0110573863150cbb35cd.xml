@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_593558_snow_needit</name>
+        <number_ref display_value="NEE">8040053b877b0110573863150cbb353e</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">e44e166aa5300110c0a0e1db2cdc951f</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-07 01:55:25</sys_created_on>
+        <sys_id>102ffcf7877b0110573863150cbb35cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="snow" source="x_593558_snow">2a5739a787330110573863150cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snow">2a5739a787330110573863150cbb3583</sys_scope>
+        <sys_update_name>sys_db_object_102ffcf7877b0110573863150cbb35cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-07 01:56:27</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_593558_snow.needit_user" name="x_593558_snow.needit_user">7c00093b877b0110573863150cbb35ca</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_593558_snow_needit">x_593558_snow_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NEE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-07 01:56:27</sys_created_on>
+        <sys_id>8040053b877b0110573863150cbb353e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NEE</sys_name>
+        <sys_package display_value="snow" source="x_593558_snow">2a5739a787330110573863150cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snow">2a5739a787330110573863150cbb3583</sys_scope>
+        <sys_update_name>sys_number_8040053b877b0110573863150cbb353e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-07 01:56:27</sys_updated_on>
+    </sys_number>
+</record_update>
